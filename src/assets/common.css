@@ -1,0 +1,20 @@
+*{
+	margin:0;
+	padding:0;
+}
+li{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+	color: #346c9c;
+}
+body{
+	background: #dedede
+}
+
+.router-link-exact-active{
+	color:white;
+	font-weight:bolder
+}
